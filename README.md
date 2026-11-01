@@ -13,7 +13,7 @@ A clone of the Australian designed C64 HES/HPD Turboload Cartridge for C64 Disk 
 * Create and load disk menus
 * Reset Button
 * Power LED
-* Compatible with the JACC64 case
+* Compatible with the JACC64-16K case
 
 ## Bill of Materials
 
@@ -82,6 +82,6 @@ This PCB is designed to be compatible with the case for the JACC64-16K cartridge
 Everything is freely available so you can make your own PCB and case, however if you would like to support me, please see the following links.
 
 * [My Projects](https://projects.amiga-hardware.com) - Donate on this page
-* [Order the TurboLoad Sock & Load PCB]()
+* [Order the TurboLoad Sock & Load PCB](https://www.pcbway.com/project/shareproject/C64_Turboload_Sock_Load_Edition_820318a7.html)
 * [Order the JACC64-16K Case which is compatible](https://www.pcbway.com/project/shareproject/JACC64_16K_C64_Cartridge_Case_78ec0fd1.html)
 
